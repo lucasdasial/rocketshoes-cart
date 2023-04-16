@@ -1,4 +1,6 @@
-- before starting the app, you need start the json server with:
+<img src="print.png">
+
+#### before starting the app, you need start the json server with:
 
 ```
 npm run server
